@@ -1,0 +1,104 @@
+
+#experitube
+{
+   background-color: rgb(30, 30, 139);
+   color: aliceblue;
+   height: 80px;
+   padding: 20px;
+}
+*{
+    margin: 0;
+}
+.mid
+{
+    width: 70%;
+    background-color:rgb(12, 255, 174);
+    color: aliceblue;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    align-items: center;
+    font-size: 1rem;
+}
+.side
+{
+    background-color: rgb(237, 111, 7);
+    height: 400px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 2rem ;
+    text-transform: uppercase;
+}
+.end
+{
+    background-color: aqua;
+
+}
+.ma
+{
+height: 100vh;
+width: 100%;
+display: flex;
+flex-direction: column;
+}
+.foo
+{
+    text-align: center;
+    padding-top:500px;
+    color: aliceblue;
+}
+.e1
+{
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.e2{
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.e3
+{
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.mid2
+{
+    width: 70%;
+    background-color:rgb(12, 255, 174);
+    color: aliceblue;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    align-items: center;
+    font-size: 1rem;
+}
+.par
+{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    background-color:aquamarine;
+}

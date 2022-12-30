@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+    <link rel="stylesheet" href="lib/bootstrap/bootstrap/css/bootstrap.min.css">
+    <title>Document</title>
+    <style>
+        .hell
+        {
+            height: 100px;
+            width:100px;
+            background-color: black;
+            margin-right: 20px;
+        }
+        .lleh
+        {
+            height: 100px;
+            width:100px;
+            background-color: black;
+        }
+        .cnt {
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .ma {
+            display: flex;
+            justify-content: center;
+        }
+
+        .try {
+            height: 30px;
+            width: 30px;
+            border-radius: 70%;
+            background-color: brown;
+            transition-delay: 3s;
+        }
+    </style>
+</head>
+
+<body>
+    <button class="btn btn-outline-danger">sample1</button>
+    <button class="btn btn-outline-danger">sample2</button>
+    <button class="btn btn-outline-danger">sample3</button>
+    <button class="btn btn-outline-Warning">sample4</button>
+    <button class="btn btn-outline-danger">sample5</button>
+    <!-- btn-sm for small button -->
+    <!-- btn-lg for large buttons -->
+    <!-- full width button we need to place button in a div and give class="d-grid" -->
+    <!-- disable is used to disable a button -->
+    <div class="d-grid">
+        <button class="btn btn-primary disabled">submit-1</button>
+        <button class="btn btn-primary">submit-2</button>
+        <button class="btn btn-primary">submit-3</button>
+    </div>
+    <br>
+    <br>
+    <!-- alerts -->
+    <div class="ma">
+        <span class="spinner-border text-primary"></span>
+        <span class="spinner-grow text-primary"></span>
+        <div class="try"></div>
+        <div class="progress">
+            <div class="progress-bar bg-success" style="width:50%;">50%</div>
+        </div>
+    </div>
+
+    <div class="cnt">
+        <div class="btn-group">
+            <div class="btn btn-primary">button-1</div>
+            <div class="btn btn-primary">button-2</div>
+        </div>
+    </div>
+    <br>
+    <!-- <div class="container bg-primary" style="height:100px;width:100px;"> -->
+
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-4 col-md-4 bg-primary">coloum-1</div>
+            <div class="col-sm-4 col-md-4 bg-primary">coloum-2</div>
+            <div class="col-sm-4 col-md-4 bg-primary">coloum-3</div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <form>
+            <div>
+                <label for="email">email</label>
+                <input type="email" name="email" id="email" class="form-control">
+            </div>
+            <div>
+                <label for="signedin">help me sign in</label>
+                <input type="checkbox" name="signedin" id="signedin" class="form-check-input">
+            </div>
+        </form>
+    </div>
+
+    <div class="row">
+        <div class="hell col-sm-4"></div>
+        <div class="lleh col-sm-4"></div>
+    </div>
+</body>
+
+</html>

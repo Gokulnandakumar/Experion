@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/lab2.css">
+    <title>Document</title>
+    <style>
+        .span-2
+        {
+           grid-column: 2;
+        }
+        .box
+        {
+            border: 1px solid;
+            height: 100px;
+            background-image:linear-gradient(to right,rgba(217, 234, 216, 0.381),rgb(52, 231, 3)) ;
+            box-shadow: 10px 10px 25px red inset;
+        }
+        .container
+        {
+            display:grid;
+            grid-template-columns:1fr 1fr;
+            /* fr means fraction 
+            instead of fr we can give pixels,\lab2.html
+            minmax(200px,50%) minmax(10px,50%),
+            repeat(3,1fr),
+            */
+            /* /* grid-column-gap:10px;
+            grid-row-gap:10px; */
+            /* */
+             /* grid-column-gap:10px;
+            grid-row-gap:10px;
+            used for making gap between row and coloum.
+            or
+            grid-gap:10px;
+           grid-gap:10px; 
+           */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+<div class="box"></div>
+<div class="box"></div>
+<div class="box span-2"></div>
+    </div>
+</body>
+</html>

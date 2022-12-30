@@ -1,0 +1,77 @@
+body
+{
+    background-image:url("pexels-donald-tong-139366.jpg") ;
+}
+.flex
+{
+    display: flex;
+    margin-left: 250px;
+    margin-top: 30px;
+    
+}
+.pro
+{
+    height: 460px;
+    width:300px;
+    background-color: rgb(110, 162, 197);
+    border-radius: 10%;
+    box-shadow: 10px 10px 20px rgb(19, 100, 151);
+}
+
+align-center
+{
+    text-align:center;
+}
+justify-center{
+    justify-content: center;
+}
+.second
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 70%;
+    border: 1px solid;
+    margin-top:-60px;
+}
+.ima
+{
+    position:absolute;
+}
+p,h3{
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+}
+.tb{
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: -25px;
+}
+.space
+{
+    padding: 10px;
+}
+.pad
+{
+    padding-left: 25px;
+    padding-bottom: 15px;
+    color: aliceblue;
+}
+.btn
+{
+    border-radius: 10%;
+    text-align: center;
+    margin-left: 110px;
+    background-color: rgb(31, 114, 202);
+    box-shadow: 10px 10px 5px rgb(28, 93, 129);
+}
+.clr
+{
+    color: black;
+}
+button{
+    transition: 0.3s;
+}
+button:hover{
+    transform: scale(1.1);
+}

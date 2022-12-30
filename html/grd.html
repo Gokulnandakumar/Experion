@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>media queries</title>
+    <style>
+        .cen
+        {
+            height: 100vh;
+            width:100%;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            transition-property: background-color;
+        }
+        .box
+        {
+            height:200px;
+            width:200px;
+            background-color: blue;
+            animation-name:gkln;
+            animation-duration:10s;
+            animation-iteration-count:infinite;
+            animation-direction:reverse;
+            
+
+        }
+
+        .box::hover{
+        background-color: aqua;
+        }
+
+        @keyframes gkln
+        {
+            0%
+            {
+                background-color: black;
+                border-radius: 0%;
+            }
+            10%{
+               background-color: blueviolet;
+               border-radius: 10%;
+            }
+            20%
+            {
+                border-radius: 20%;
+                background-color: brown;
+            }
+            30%
+            {
+                border-radius: 30%;
+                background-color: rgb(218, 218, 25);
+            }
+            40%
+            {
+                border-radius: 40%;
+                background-color: rgb(13, 122, 224);
+            }
+            50%
+            {
+                border-radius: 50%;
+                background-color: rgb(253, 16, 16);
+            }
+            60%
+            {
+            border-radius: 60%;
+                background-color: rgb(79, 109, 92);
+            }
+            70%
+            {
+                border-radius: 70%;
+                background-color: rgb(12, 231, 85);
+            }
+            80%
+            {
+                border-radius: 80%;
+                background-color: rgb(230, 17, 184);
+            }
+            90%
+            {
+                border-radius: 0%;
+                background-color: rgb(209, 243, 13);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="cen">
+        <div class="box"></div>
+    </div>
+    
+    
+</body>
+</html>

@@ -1,0 +1,143 @@
+.tiger-1{
+    position: absolute;
+    background-color: brown;
+    height: 60px;
+    width:90px;
+    border-radius: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 50px;
+    color: aliceblue;
+}
+.tiger-2
+{
+    position: absolute;
+    background-color: brown;
+    height: 60px;
+    width:90px;
+    border-radius: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 550px;
+    margin-left: 1100px;
+    color: aliceblue;
+}
+.yak
+{
+    position: absolute;
+    display: flex;
+    background-color: brown;
+    height: 60px;
+    width:90Px;
+    border-radius: 15%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.outer
+{
+    display: flex;
+}
+.elephant
+{
+    position: absolute;
+    display: flex;
+    background-color: brown;
+    height: 50px;
+    width: 90px;
+    border-radius: 15%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 90px;
+    margin-left: 1050px; 
+}
+.Rhinosauros
+{
+    position: absolute;
+    display: flex;
+    background-color: brown;
+    height: 60px;
+    width: 110px;
+    border-radius: 15%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-left: 1050px 
+}
+.fox
+{
+    position: absolute;
+    display: flex;
+    background-color: brown;
+    height: 60px;
+    width: 90px;
+    border-radius: 15%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 140px;
+    margin-left: 250px; 
+}
+.lion
+{
+    position: absolute;
+    display: flex;
+    background-color: brown;
+    height: 60px;
+    width: 90px;
+    border-radius: 15%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 500px;
+    margin-left: 50px; 
+}
+.giraffe
+{
+    position: absolute;
+    display: flex;
+    background-color: brown;
+    height: 60px;
+    width: 90px;
+    border-radius: 15%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 430px;
+    margin-left: 100px; 
+}
+.leoperd
+{
+    position: absolute;
+    display: flex;
+    background-color: brown;
+    height: 60px;
+    width: 90px;
+    border-radius: 15%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 600px;
+    margin-left: 800px;  
+}
+.iguana
+{
+    position: absolute;
+    display: flex;
+    background-color: brown;
+    height: 60px;
+    width: 90px;
+    border-radius: 15%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    margin-top: 450px;
+    margin-left: 900px; 
+}

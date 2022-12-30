@@ -1,0 +1,80 @@
+.main
+{
+    height:70vh;
+    width:100%;
+    display:flex;
+    align-items: flex-end;
+    background-color: rgba(20, 227, 116, 0.747);
+    justify-content: space-between;
+}
+*
+{
+    margin: 0;
+    background-color: aqua;
+}
+.box-1
+{
+    height: 180px ;
+    width:250px;
+    background-color: aliceblue;
+   
+    display: flex;
+    justify-content: center;
+}
+.box-2
+{
+    display: flex;
+    justify-content: center;
+    height: 270px ;
+    width:250px;
+    background-color: aliceblue;
+   
+}
+.box-3{
+height: 270px ;
+width:250px;
+background-color: aliceblue;
+
+display:flex;
+justify-content: center;
+}
+.box-4
+{
+
+height: 180px ;
+width:250px;
+background-color: aliceblue;
+display: flex;
+justify-content: center;
+}
+.smlbox
+{   margin-top: 20px;
+    height: 30px;
+    width: 100px;
+    display: flex;
+    background-color: aliceblue;
+}
+.bx{
+border-radius: 10%;
+height: 20px;
+width: 20px;
+background-color: rgb(19, 202, 135);
+margin-right: 10px;
+}
+.sec-box
+{
+    align-self: center;
+    height: 20px;
+    width: 80px;
+    background-color: rgb(12, 215, 103);
+}
+.outer
+{
+    background-color: aliceblue;
+    
+}
+.ma-outer
+{
+    height: 250px;
+    background-color: aliceblue;
+}
