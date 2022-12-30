@@ -8,10 +8,11 @@ languages.forEach((element, index) => console.log(index , element));
 // }
 
 const person = {
-name: '20',
-age: '30',
-edu: 'bca'
+     name: '20',
+     age: '30',
+     edu: 'bca'
 };
 
 console.log(person.name);
 console.log(person.age);
+console.log(person['edu']);
