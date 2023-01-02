@@ -55,5 +55,27 @@
         element.innerHTML = 'New Text';
         console.log(element);
     </script> 
+
+    <p id="exp">SAMPLE TEXT</p>
+    <script>
+        let example = document.getElementById('exp');
+        example.style.color = 'red';
+        example.style.textAlign = 'center';
+        example.style.fontSize = '2.5rem';
+        example.style.fontWeight = 'bold';
+    </script>
+
+    <button  onclick="handleClick(event)">click me</button>
+    <script>
+
+        function handleClick(e)
+        {
+            alert("button got clicked");
+            e.target.innerHTML = 'clicked';
+            e.target.style.backgroundColor = 'red';  
+            window.location.reload();
+        }
+
+    </script>
 </body>
 </html>
