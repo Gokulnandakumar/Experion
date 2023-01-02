@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>js Html connection</title>
 </head>
+
 <body>
 
     <!-- we can write more than one script tag in a web page -->
@@ -16,12 +18,12 @@
 
     <p id="hello">hello world</p>
 
-   <!-- data inside one script tag can be accessed from another script tag-->
-   <!--  console.error can be use to display an error -->
-   <!--  console.table can be use to display data in the form of table -->
-   <!--  console.info can be use to display an information -->
-   <!--  console.warn can be use to display a warning-->
-   <!--  error or data have stack trace which gives where the error occured -->
+    <!-- data inside one script tag can be accessed from another script tag-->
+    <!--  console.error can be use to display an error -->
+    <!--  console.table can be use to display data in the form of table -->
+    <!--  console.info can be use to display an information -->
+    <!--  console.warn can be use to display a warning-->
+    <!--  error or data have stack trace which gives where the error occured -->
 
     <script>
         var data1 = {
@@ -30,23 +32,21 @@
         }
         console.table(data1);
         alert("hello enter your ");
-        let option = confirm("are you trying to logout") ;
-        
-        if(option) {
+        let option = confirm("are you trying to logout");
+
+        if (option) {
             console.log("logged out successfully");
-        }
-        else{
+        } else {
             console.log("logged successfully ");
         }
-        
+
         let userName = prompt("enter your name");
         console.log('you are', userName);
-
     </script>
 
-<!--if there is error in one script tag next script tag will get executed -->
+    <!--if there is error in one script tag next script tag will get executed -->
 
-   <!-- DOM  STARTING-->
+    <!-- DOM  STARTING-->
 
     <script>
         document.write('hello world');
@@ -54,7 +54,7 @@
         let element = document.getElementById('hello');
         element.innerHTML = 'New Text';
         console.log(element);
-    </script> 
+    </script>
 
     <p id="exp">SAMPLE TEXT</p>
     <script>
@@ -65,17 +65,35 @@
         example.style.fontWeight = 'bold';
     </script>
 
-    <button  onclick="handleClick(event)">click me</button>
+    <button onclick="handleClick(event)">click me</button>
     <script>
-
-        function handleClick(e)
-        {
+        function handleClick(e) {
             alert("button got clicked");
             e.target.innerHTML = 'clicked';
-            e.target.style.backgroundColor = 'red';  
-            window.location.reload();
+            e.target.style.backgroundColor = 'red';
+            e.style.display = 'none';
         }
-
     </script>
+    <h1>sample 1</h1>
+    <h1>sample 2</h1>
+
+    <h2 id="p2">deletion using DOM 1</h2>
+    <h2>deletion using DOM 2</h2>
+    <h2>deletion using DOM 3</h2>
+    <input type="checkbox" id="test">check
+
+    <script>
+        var e = document.getElementsByTagName('h1');
+        for (let i = 0; i < e.length; i++) {
+            const element = e[i];
+        }
+        document.getElementById('p2').remove();
+
+        document.getElementById('test').setAttribute('checked', 'checked');
+    </script>
+
+
+
 </body>
+
 </html>
