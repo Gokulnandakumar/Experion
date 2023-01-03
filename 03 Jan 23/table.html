@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table for json</title>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr> user </tr>
+            <tr> email </tr>
+        </thead>
+        <tbody id="content"></tbody>
+    </table>
+    <script>
+        const users = [{
+                name: 'user1',
+                email: 'user1@gmail.com'
+            },
+            {
+                name: 'user2',
+                email: 'user2@gmail.com'
+            }
+        ];
+
+        const target = document.getElementById('content');
+        users.forEach(user => {
+            const row = `<tr>
+                     <td>${user.name}</td>
+                     <td>${user.email}</td>
+                     </tr>`;
+            target.innerHTML += row;
+        })
+    </script>
+</body>
+
+</html>

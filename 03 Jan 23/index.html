@@ -9,9 +9,11 @@
 </head>
 
 <body>
-    <input  type="text" onkeyup="executeEvent(event)" />
+    <input type="text" onkeyup="executeEvent(event)" />
     <h1 id="result"></h1>
-   <!-- onKeyUp will give all the keys clicked. -->
+
+    <!-- onKeyUp will give all the keys clicked. -->
+    <!-- onchange can be used to change values-->
 
 
     <script>
@@ -22,6 +24,47 @@
             res.innerText = e.target.value;
         }
     </script>
-</body>
 
+    <div id="change" style="height: 100px;background-color: black;"></div>
+    <hr>
+    <input type="range" min="10" max="100" value="50" onchange="changeDivSize(event)">
+
+    <script>
+        const btn = document.getElementById("change");
+
+        function changeDivSize(e) {
+            btn.style.width = `${e.target.value}px`;
+        }
+    </script>
+
+    <div>
+        <button>click me</button>
+        <button>click me</button>
+        <button>click me</button>
+        <button>click me</button>
+    </div>
+
+<!--  DIFFERENCE BETWEEN INNERTEXT AND INNERHTML-->
+
+<!-- in innerhtml we can execute a html or malicious code-->
+<!-- in innerText we cannot execute tags or code -->
+
+
+    <script>
+       const target  = document.querySelector('#change') ;
+       console.log(target.parentElement);
+        
+        document.querySelectorAll('div').forEach(val => {
+            val.addEventListener('click', (e) => {
+                e.target.innerText = "Clicked";
+                val.style.color = "red";
+            })
+        })
+
+        const tag = document.createElement('h1');
+        tag.innerHTML = 'hello world!!';
+        document.body.appendChild(tag);
+    </script>
+
+</body>
 </html>
