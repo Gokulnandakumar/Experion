@@ -13,6 +13,7 @@
         <thead>
             <tr> user </tr>
             <tr> email </tr>
+            <tr> Action </tr>
         </thead>
         <tbody id="content"></tbody>
     </table>
@@ -29,12 +30,18 @@
 
         const target = document.getElementById('content');
         users.forEach(user => {
-            const row = `<tr>
+            const row = `<tr class="cnt">
                      <td>${user.name}</td>
                      <td>${user.email}</td>
+                     <td><button onclick="deleteRow(event)">delete</button></td>
                      </tr>`;
             target.innerHTML += row;
         })
+        function deleteRow(e) {
+            console.log(e.target.parentElement.parentElement);
+            const delet = e.target.parentElement.parentElement;
+            delet.remove();
+        }
     </script>
 </body>
 
