@@ -5,16 +5,16 @@ function handleClick(e)
     // const email = document.forms['login']['email'].value;
     const email = document.forms.login.email;
     const passWord = document.forms['login']['password'];
+    const age = document.forms['login']['age'];
+
     console.log(email, passWord);
     const emailValue = email.value;
     const passWordValue = passWord.value;
 
-    const passworderrordisplay = passWord.nextElementSibling;
-
     if(passWordValue.length < 6){
         passWord.style.border = '1px solid red';
-        passworderrordisplay.classList.remove('d-none');
-        passworderrordisplay.innerHtml += `<li>
+        passWord.nextElementSibling.classList.remove('d-none');
+        passWord.nextElementSibling.innerHtml += `<li>
         password contain spaces 
         </li>` ;
     }
@@ -26,9 +26,15 @@ function handleClick(e)
 
     if(passWordValue.includes(' ')){
         passWord.style.border = '1px solid red';
-        passworderrordisplay.classList.remove('d-none');
-        passworderrordisplay.innerHtml += `<li>
+        passWord.nextElementSibling.classList.remove('d-none');
+        passWord.nextElementSibling.innerHtml += 
+        `<li>
         password contain spaces 
         </li>` ;
+    }
+
+    if( age.value < 15 || age.value > 100){
+        age.style.border = '1px solid red';
+        age.nextElementSibling.classList.remove('d-none');
     }
 }
