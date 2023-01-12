@@ -17,9 +17,10 @@
   <header>
     <!-- place navbar here -->
   </header>
-  <main><center>
-    <input type="text" name="" id="textBox" onkeyup="displayEmail(event)">
-    <table class="table table-dark table-striped table-hover">
+  <main>
+    <center>
+      <input type="text" name="" id="textBox" onkeyup="displayEmail(event)">
+      <table class="table table-dark table-striped table-hover">
         <thead>
           <tr>
             <th>Id</th>
@@ -29,11 +30,11 @@
           </tr>
         </thead>
         <tbody id="target">
-  
-          
+
+
         </tbody>
-    </table>
-</center>
+      </table>
+    </center>
   </main>
   <footer>
     <!-- place footer here -->
@@ -50,18 +51,18 @@
     // document.getElementById("fname").addEventListener("change", displayEmail);
 
     function displayEmail(e) {
-        const targValue = e.target.value;
-        const tar = document.querySelector('#target');
+      const targValue = e.target.value;
+      const tar = document.querySelector('#target');
 
-        if (targValue) {
-            fetch('https://reqres.in/api/users').then(res => res.json()).then((data) => {
-                data.data.forEach(element => {
+      if (targValue) {
+        fetch('https://reqres.in/api/users').then(res => res.json()).then((data) => {
+          data.data.forEach(element => {
 
-                    console.log(element.email);
-                    // console.log(element.email.startsWith(targValue));
-                    
-                        if (element.email.startsWith(targValue)) {
-                            const row = `<tr>
+            console.log(element.email);
+            // console.log(element.email.startsWith(targValue));
+
+            if (element.email.startsWith(targValue)) {
+              const row = `<tr>
                             <td>${element.id}</td>
                             <td>
                             <img src=" ${element.avatar}" height="50">
@@ -69,13 +70,13 @@
                             <td>${element.first_name}  ${element.last_name}</td>
                             <td>${element.email}</td>
                             </tr>`;
-                            tar.innerHTML += row;
-                        }
-                });
-            });
-        }
+              tar.innerHTML = row;
+            }
+          });
+        });
+      }
     }
-</script>
+  </script>
 
 </body>
 
