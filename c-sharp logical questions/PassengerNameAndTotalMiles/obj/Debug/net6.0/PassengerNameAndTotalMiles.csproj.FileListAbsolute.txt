@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\bin\Debug\net6.0\PassengerNameAndTotalMiles.exe
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\bin\Debug\net6.0\PassengerNameAndTotalMiles.deps.json
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\bin\Debug\net6.0\PassengerNameAndTotalMiles.runtimeconfig.json
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\bin\Debug\net6.0\PassengerNameAndTotalMiles.dll
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\bin\Debug\net6.0\PassengerNameAndTotalMiles.pdb
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\obj\Debug\net6.0\PassengerNameAndTotalMiles.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\obj\Debug\net6.0\PassengerNameAndTotalMiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\obj\Debug\net6.0\PassengerNameAndTotalMiles.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\obj\Debug\net6.0\PassengerNameAndTotalMiles.AssemblyInfo.cs
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\obj\Debug\net6.0\PassengerNameAndTotalMiles.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\obj\Debug\net6.0\PassengerNameAndTotalMiles.dll
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\obj\Debug\net6.0\refint\PassengerNameAndTotalMiles.dll
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\obj\Debug\net6.0\PassengerNameAndTotalMiles.pdb
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\obj\Debug\net6.0\PassengerNameAndTotalMiles.genruntimeconfig.cache
+C:\Experion\c-sharp\PassengerNameAndTotalMiles\obj\Debug\net6.0\ref\PassengerNameAndTotalMiles.dll

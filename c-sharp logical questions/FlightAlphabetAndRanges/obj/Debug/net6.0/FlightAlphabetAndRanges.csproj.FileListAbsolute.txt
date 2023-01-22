@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\FlightAlphabetAndRanges\bin\Debug\net6.0\FlightAlphabetAndRanges.exe
+C:\Experion\c-sharp\FlightAlphabetAndRanges\bin\Debug\net6.0\FlightAlphabetAndRanges.deps.json
+C:\Experion\c-sharp\FlightAlphabetAndRanges\bin\Debug\net6.0\FlightAlphabetAndRanges.runtimeconfig.json
+C:\Experion\c-sharp\FlightAlphabetAndRanges\bin\Debug\net6.0\FlightAlphabetAndRanges.dll
+C:\Experion\c-sharp\FlightAlphabetAndRanges\bin\Debug\net6.0\FlightAlphabetAndRanges.pdb
+C:\Experion\c-sharp\FlightAlphabetAndRanges\obj\Debug\net6.0\FlightAlphabetAndRanges.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\FlightAlphabetAndRanges\obj\Debug\net6.0\FlightAlphabetAndRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\FlightAlphabetAndRanges\obj\Debug\net6.0\FlightAlphabetAndRanges.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\FlightAlphabetAndRanges\obj\Debug\net6.0\FlightAlphabetAndRanges.AssemblyInfo.cs
+C:\Experion\c-sharp\FlightAlphabetAndRanges\obj\Debug\net6.0\FlightAlphabetAndRanges.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\FlightAlphabetAndRanges\obj\Debug\net6.0\FlightAlphabetAndRanges.dll
+C:\Experion\c-sharp\FlightAlphabetAndRanges\obj\Debug\net6.0\refint\FlightAlphabetAndRanges.dll
+C:\Experion\c-sharp\FlightAlphabetAndRanges\obj\Debug\net6.0\FlightAlphabetAndRanges.pdb
+C:\Experion\c-sharp\FlightAlphabetAndRanges\obj\Debug\net6.0\FlightAlphabetAndRanges.genruntimeconfig.cache
+C:\Experion\c-sharp\FlightAlphabetAndRanges\obj\Debug\net6.0\ref\FlightAlphabetAndRanges.dll

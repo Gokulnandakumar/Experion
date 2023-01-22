@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\PassengerSort\bin\Debug\net6.0\PassengerSort.exe
+C:\Experion\c-sharp\PassengerSort\bin\Debug\net6.0\PassengerSort.deps.json
+C:\Experion\c-sharp\PassengerSort\bin\Debug\net6.0\PassengerSort.runtimeconfig.json
+C:\Experion\c-sharp\PassengerSort\bin\Debug\net6.0\PassengerSort.dll
+C:\Experion\c-sharp\PassengerSort\bin\Debug\net6.0\PassengerSort.pdb
+C:\Experion\c-sharp\PassengerSort\obj\Debug\net6.0\PassengerSort.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\PassengerSort\obj\Debug\net6.0\PassengerSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\PassengerSort\obj\Debug\net6.0\PassengerSort.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\PassengerSort\obj\Debug\net6.0\PassengerSort.AssemblyInfo.cs
+C:\Experion\c-sharp\PassengerSort\obj\Debug\net6.0\PassengerSort.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\PassengerSort\obj\Debug\net6.0\PassengerSort.dll
+C:\Experion\c-sharp\PassengerSort\obj\Debug\net6.0\refint\PassengerSort.dll
+C:\Experion\c-sharp\PassengerSort\obj\Debug\net6.0\PassengerSort.pdb
+C:\Experion\c-sharp\PassengerSort\obj\Debug\net6.0\PassengerSort.genruntimeconfig.cache
+C:\Experion\c-sharp\PassengerSort\obj\Debug\net6.0\ref\PassengerSort.dll

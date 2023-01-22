@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\FlightFaresDecimalFormat\bin\Debug\net6.0\FlightFaresDecimalFormat.exe
+C:\Experion\c-sharp\FlightFaresDecimalFormat\bin\Debug\net6.0\FlightFaresDecimalFormat.deps.json
+C:\Experion\c-sharp\FlightFaresDecimalFormat\bin\Debug\net6.0\FlightFaresDecimalFormat.runtimeconfig.json
+C:\Experion\c-sharp\FlightFaresDecimalFormat\bin\Debug\net6.0\FlightFaresDecimalFormat.dll
+C:\Experion\c-sharp\FlightFaresDecimalFormat\bin\Debug\net6.0\FlightFaresDecimalFormat.pdb
+C:\Experion\c-sharp\FlightFaresDecimalFormat\obj\Debug\net6.0\FlightFaresDecimalFormat.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\FlightFaresDecimalFormat\obj\Debug\net6.0\FlightFaresDecimalFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\FlightFaresDecimalFormat\obj\Debug\net6.0\FlightFaresDecimalFormat.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\FlightFaresDecimalFormat\obj\Debug\net6.0\FlightFaresDecimalFormat.AssemblyInfo.cs
+C:\Experion\c-sharp\FlightFaresDecimalFormat\obj\Debug\net6.0\FlightFaresDecimalFormat.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\FlightFaresDecimalFormat\obj\Debug\net6.0\FlightFaresDecimalFormat.dll
+C:\Experion\c-sharp\FlightFaresDecimalFormat\obj\Debug\net6.0\refint\FlightFaresDecimalFormat.dll
+C:\Experion\c-sharp\FlightFaresDecimalFormat\obj\Debug\net6.0\FlightFaresDecimalFormat.pdb
+C:\Experion\c-sharp\FlightFaresDecimalFormat\obj\Debug\net6.0\FlightFaresDecimalFormat.genruntimeconfig.cache
+C:\Experion\c-sharp\FlightFaresDecimalFormat\obj\Debug\net6.0\ref\FlightFaresDecimalFormat.dll

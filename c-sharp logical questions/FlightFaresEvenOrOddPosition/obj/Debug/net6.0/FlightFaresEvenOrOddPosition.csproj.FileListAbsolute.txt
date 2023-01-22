@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\bin\Debug\net6.0\FlightFaresEvenOrOddPosition.exe
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\bin\Debug\net6.0\FlightFaresEvenOrOddPosition.deps.json
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\bin\Debug\net6.0\FlightFaresEvenOrOddPosition.runtimeconfig.json
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\bin\Debug\net6.0\FlightFaresEvenOrOddPosition.dll
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\bin\Debug\net6.0\FlightFaresEvenOrOddPosition.pdb
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\obj\Debug\net6.0\FlightFaresEvenOrOddPosition.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\obj\Debug\net6.0\FlightFaresEvenOrOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\obj\Debug\net6.0\FlightFaresEvenOrOddPosition.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\obj\Debug\net6.0\FlightFaresEvenOrOddPosition.AssemblyInfo.cs
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\obj\Debug\net6.0\FlightFaresEvenOrOddPosition.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\obj\Debug\net6.0\FlightFaresEvenOrOddPosition.dll
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\obj\Debug\net6.0\refint\FlightFaresEvenOrOddPosition.dll
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\obj\Debug\net6.0\FlightFaresEvenOrOddPosition.pdb
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\obj\Debug\net6.0\FlightFaresEvenOrOddPosition.genruntimeconfig.cache
+C:\Experion\c-sharp\FlightFaresEvenOrOddPosition\obj\Debug\net6.0\ref\FlightFaresEvenOrOddPosition.dll

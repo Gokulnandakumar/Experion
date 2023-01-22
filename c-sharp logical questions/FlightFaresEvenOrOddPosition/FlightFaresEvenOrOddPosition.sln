@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightFaresEvenOrOddPosition", "FlightFaresEvenOrOddPosition.csproj", "{02CD7630-DE31-4572-ADEA-5640162A3E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CD7630-DE31-4572-ADEA-5640162A3E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CD7630-DE31-4572-ADEA-5640162A3E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CD7630-DE31-4572-ADEA-5640162A3E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CD7630-DE31-4572-ADEA-5640162A3E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04578AE3-E672-439A-8E25-C91292531FEC}
+	EndGlobalSection
+EndGlobal

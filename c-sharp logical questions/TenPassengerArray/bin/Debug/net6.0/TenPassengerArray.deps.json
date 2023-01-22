@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TenPassengerArray/1.0.0": {
+        "runtime": {
+          "TenPassengerArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TenPassengerArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

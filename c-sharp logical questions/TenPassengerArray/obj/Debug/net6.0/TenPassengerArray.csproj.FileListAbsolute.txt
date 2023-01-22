@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\TenPassengerArray\bin\Debug\net6.0\TenPassengerArray.exe
+C:\Experion\c-sharp\TenPassengerArray\bin\Debug\net6.0\TenPassengerArray.deps.json
+C:\Experion\c-sharp\TenPassengerArray\bin\Debug\net6.0\TenPassengerArray.runtimeconfig.json
+C:\Experion\c-sharp\TenPassengerArray\bin\Debug\net6.0\TenPassengerArray.dll
+C:\Experion\c-sharp\TenPassengerArray\bin\Debug\net6.0\TenPassengerArray.pdb
+C:\Experion\c-sharp\TenPassengerArray\obj\Debug\net6.0\TenPassengerArray.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\TenPassengerArray\obj\Debug\net6.0\TenPassengerArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\TenPassengerArray\obj\Debug\net6.0\TenPassengerArray.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\TenPassengerArray\obj\Debug\net6.0\TenPassengerArray.AssemblyInfo.cs
+C:\Experion\c-sharp\TenPassengerArray\obj\Debug\net6.0\TenPassengerArray.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\TenPassengerArray\obj\Debug\net6.0\TenPassengerArray.dll
+C:\Experion\c-sharp\TenPassengerArray\obj\Debug\net6.0\refint\TenPassengerArray.dll
+C:\Experion\c-sharp\TenPassengerArray\obj\Debug\net6.0\TenPassengerArray.pdb
+C:\Experion\c-sharp\TenPassengerArray\obj\Debug\net6.0\TenPassengerArray.genruntimeconfig.cache
+C:\Experion\c-sharp\TenPassengerArray\obj\Debug\net6.0\ref\TenPassengerArray.dll

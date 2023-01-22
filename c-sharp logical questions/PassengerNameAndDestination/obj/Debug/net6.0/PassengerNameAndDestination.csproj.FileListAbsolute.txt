@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\PassengerNameAndDestination\bin\Debug\net6.0\PassengerNameAndDestination.exe
+C:\Experion\c-sharp\PassengerNameAndDestination\bin\Debug\net6.0\PassengerNameAndDestination.deps.json
+C:\Experion\c-sharp\PassengerNameAndDestination\bin\Debug\net6.0\PassengerNameAndDestination.runtimeconfig.json
+C:\Experion\c-sharp\PassengerNameAndDestination\bin\Debug\net6.0\PassengerNameAndDestination.dll
+C:\Experion\c-sharp\PassengerNameAndDestination\bin\Debug\net6.0\PassengerNameAndDestination.pdb
+C:\Experion\c-sharp\PassengerNameAndDestination\obj\Debug\net6.0\PassengerNameAndDestination.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\PassengerNameAndDestination\obj\Debug\net6.0\PassengerNameAndDestination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\PassengerNameAndDestination\obj\Debug\net6.0\PassengerNameAndDestination.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\PassengerNameAndDestination\obj\Debug\net6.0\PassengerNameAndDestination.AssemblyInfo.cs
+C:\Experion\c-sharp\PassengerNameAndDestination\obj\Debug\net6.0\PassengerNameAndDestination.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\PassengerNameAndDestination\obj\Debug\net6.0\PassengerNameAndDestination.dll
+C:\Experion\c-sharp\PassengerNameAndDestination\obj\Debug\net6.0\refint\PassengerNameAndDestination.dll
+C:\Experion\c-sharp\PassengerNameAndDestination\obj\Debug\net6.0\PassengerNameAndDestination.pdb
+C:\Experion\c-sharp\PassengerNameAndDestination\obj\Debug\net6.0\PassengerNameAndDestination.genruntimeconfig.cache
+C:\Experion\c-sharp\PassengerNameAndDestination\obj\Debug\net6.0\ref\PassengerNameAndDestination.dll

@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\FlightFareAndDestination\bin\Debug\net6.0\FlightFareAndDestination.exe
+C:\Experion\c-sharp\FlightFareAndDestination\bin\Debug\net6.0\FlightFareAndDestination.deps.json
+C:\Experion\c-sharp\FlightFareAndDestination\bin\Debug\net6.0\FlightFareAndDestination.runtimeconfig.json
+C:\Experion\c-sharp\FlightFareAndDestination\bin\Debug\net6.0\FlightFareAndDestination.dll
+C:\Experion\c-sharp\FlightFareAndDestination\bin\Debug\net6.0\FlightFareAndDestination.pdb
+C:\Experion\c-sharp\FlightFareAndDestination\obj\Debug\net6.0\FlightFareAndDestination.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\FlightFareAndDestination\obj\Debug\net6.0\FlightFareAndDestination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\FlightFareAndDestination\obj\Debug\net6.0\FlightFareAndDestination.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\FlightFareAndDestination\obj\Debug\net6.0\FlightFareAndDestination.AssemblyInfo.cs
+C:\Experion\c-sharp\FlightFareAndDestination\obj\Debug\net6.0\FlightFareAndDestination.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\FlightFareAndDestination\obj\Debug\net6.0\FlightFareAndDestination.dll
+C:\Experion\c-sharp\FlightFareAndDestination\obj\Debug\net6.0\refint\FlightFareAndDestination.dll
+C:\Experion\c-sharp\FlightFareAndDestination\obj\Debug\net6.0\FlightFareAndDestination.pdb
+C:\Experion\c-sharp\FlightFareAndDestination\obj\Debug\net6.0\FlightFareAndDestination.genruntimeconfig.cache
+C:\Experion\c-sharp\FlightFareAndDestination\obj\Debug\net6.0\ref\FlightFareAndDestination.dll

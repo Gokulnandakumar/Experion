@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\DynamicArray\bin\Debug\net6.0\DynamicArray.exe
+C:\Experion\c-sharp\DynamicArray\bin\Debug\net6.0\DynamicArray.deps.json
+C:\Experion\c-sharp\DynamicArray\bin\Debug\net6.0\DynamicArray.runtimeconfig.json
+C:\Experion\c-sharp\DynamicArray\bin\Debug\net6.0\DynamicArray.dll
+C:\Experion\c-sharp\DynamicArray\bin\Debug\net6.0\DynamicArray.pdb
+C:\Experion\c-sharp\DynamicArray\obj\Debug\net6.0\DynamicArray.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\DynamicArray\obj\Debug\net6.0\DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\DynamicArray\obj\Debug\net6.0\DynamicArray.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\DynamicArray\obj\Debug\net6.0\DynamicArray.AssemblyInfo.cs
+C:\Experion\c-sharp\DynamicArray\obj\Debug\net6.0\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\DynamicArray\obj\Debug\net6.0\DynamicArray.dll
+C:\Experion\c-sharp\DynamicArray\obj\Debug\net6.0\refint\DynamicArray.dll
+C:\Experion\c-sharp\DynamicArray\obj\Debug\net6.0\DynamicArray.pdb
+C:\Experion\c-sharp\DynamicArray\obj\Debug\net6.0\DynamicArray.genruntimeconfig.cache
+C:\Experion\c-sharp\DynamicArray\obj\Debug\net6.0\ref\DynamicArray.dll
