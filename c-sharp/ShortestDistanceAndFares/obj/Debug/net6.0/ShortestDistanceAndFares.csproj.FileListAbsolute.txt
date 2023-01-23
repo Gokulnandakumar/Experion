@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\ShortestDistanceAndFares\bin\Debug\net6.0\ShortestDistanceAndFares.exe
+C:\Experion\c-sharp\ShortestDistanceAndFares\bin\Debug\net6.0\ShortestDistanceAndFares.deps.json
+C:\Experion\c-sharp\ShortestDistanceAndFares\bin\Debug\net6.0\ShortestDistanceAndFares.runtimeconfig.json
+C:\Experion\c-sharp\ShortestDistanceAndFares\bin\Debug\net6.0\ShortestDistanceAndFares.dll
+C:\Experion\c-sharp\ShortestDistanceAndFares\bin\Debug\net6.0\ShortestDistanceAndFares.pdb
+C:\Experion\c-sharp\ShortestDistanceAndFares\obj\Debug\net6.0\ShortestDistanceAndFares.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\ShortestDistanceAndFares\obj\Debug\net6.0\ShortestDistanceAndFares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\ShortestDistanceAndFares\obj\Debug\net6.0\ShortestDistanceAndFares.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\ShortestDistanceAndFares\obj\Debug\net6.0\ShortestDistanceAndFares.AssemblyInfo.cs
+C:\Experion\c-sharp\ShortestDistanceAndFares\obj\Debug\net6.0\ShortestDistanceAndFares.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\ShortestDistanceAndFares\obj\Debug\net6.0\ShortestDistanceAndFares.dll
+C:\Experion\c-sharp\ShortestDistanceAndFares\obj\Debug\net6.0\refint\ShortestDistanceAndFares.dll
+C:\Experion\c-sharp\ShortestDistanceAndFares\obj\Debug\net6.0\ShortestDistanceAndFares.pdb
+C:\Experion\c-sharp\ShortestDistanceAndFares\obj\Debug\net6.0\ShortestDistanceAndFares.genruntimeconfig.cache
+C:\Experion\c-sharp\ShortestDistanceAndFares\obj\Debug\net6.0\ref\ShortestDistanceAndFares.dll

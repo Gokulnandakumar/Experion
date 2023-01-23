@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\TwentyThree\bin\Debug\net6.0\TwentyThree.exe
+C:\Experion\c-sharp\TwentyThree\bin\Debug\net6.0\TwentyThree.deps.json
+C:\Experion\c-sharp\TwentyThree\bin\Debug\net6.0\TwentyThree.runtimeconfig.json
+C:\Experion\c-sharp\TwentyThree\bin\Debug\net6.0\TwentyThree.dll
+C:\Experion\c-sharp\TwentyThree\bin\Debug\net6.0\TwentyThree.pdb
+C:\Experion\c-sharp\TwentyThree\obj\Debug\net6.0\TwentyThree.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\TwentyThree\obj\Debug\net6.0\TwentyThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\TwentyThree\obj\Debug\net6.0\TwentyThree.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\TwentyThree\obj\Debug\net6.0\TwentyThree.AssemblyInfo.cs
+C:\Experion\c-sharp\TwentyThree\obj\Debug\net6.0\TwentyThree.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\TwentyThree\obj\Debug\net6.0\TwentyThree.dll
+C:\Experion\c-sharp\TwentyThree\obj\Debug\net6.0\refint\TwentyThree.dll
+C:\Experion\c-sharp\TwentyThree\obj\Debug\net6.0\TwentyThree.pdb
+C:\Experion\c-sharp\TwentyThree\obj\Debug\net6.0\TwentyThree.genruntimeconfig.cache
+C:\Experion\c-sharp\TwentyThree\obj\Debug\net6.0\ref\TwentyThree.dll

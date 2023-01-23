@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Experion\\c-sharp\\TenPassengerAge\\TenPassengerAge.csproj": {}
+    "C:\\Experion\\c-sharp logical questions\\TenPassengerAge\\TenPassengerAge.csproj": {}
   },
   "projects": {
-    "C:\\Experion\\c-sharp\\TenPassengerAge\\TenPassengerAge.csproj": {
+    "C:\\Experion\\c-sharp logical questions\\TenPassengerAge\\TenPassengerAge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Experion\\c-sharp\\TenPassengerAge\\TenPassengerAge.csproj",
+        "projectUniqueName": "C:\\Experion\\c-sharp logical questions\\TenPassengerAge\\TenPassengerAge.csproj",
         "projectName": "TenPassengerAge",
-        "projectPath": "C:\\Experion\\c-sharp\\TenPassengerAge\\TenPassengerAge.csproj",
+        "projectPath": "C:\\Experion\\c-sharp logical questions\\TenPassengerAge\\TenPassengerAge.csproj",
         "packagesPath": "C:\\Users\\gokul.n\\.nuget\\packages\\",
-        "outputPath": "C:\\Experion\\c-sharp\\TenPassengerAge\\obj\\",
+        "outputPath": "C:\\Experion\\c-sharp logical questions\\TenPassengerAge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokul.n\\AppData\\Roaming\\NuGet\\NuGet.Config",

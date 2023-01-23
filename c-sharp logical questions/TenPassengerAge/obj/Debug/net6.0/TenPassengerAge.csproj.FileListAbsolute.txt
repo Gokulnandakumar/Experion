@@ -13,3 +13,18 @@ C:\Experion\c-sharp\TenPassengerAge\obj\Debug\net6.0\refint\TenPassengerAge.dll
 C:\Experion\c-sharp\TenPassengerAge\obj\Debug\net6.0\TenPassengerAge.pdb
 C:\Experion\c-sharp\TenPassengerAge\obj\Debug\net6.0\TenPassengerAge.genruntimeconfig.cache
 C:\Experion\c-sharp\TenPassengerAge\obj\Debug\net6.0\ref\TenPassengerAge.dll
+C:\Experion\c-sharp logical questions\TenPassengerAge\bin\Debug\net6.0\TenPassengerAge.exe
+C:\Experion\c-sharp logical questions\TenPassengerAge\bin\Debug\net6.0\TenPassengerAge.deps.json
+C:\Experion\c-sharp logical questions\TenPassengerAge\bin\Debug\net6.0\TenPassengerAge.runtimeconfig.json
+C:\Experion\c-sharp logical questions\TenPassengerAge\bin\Debug\net6.0\TenPassengerAge.dll
+C:\Experion\c-sharp logical questions\TenPassengerAge\bin\Debug\net6.0\TenPassengerAge.pdb
+C:\Experion\c-sharp logical questions\TenPassengerAge\obj\Debug\net6.0\TenPassengerAge.csproj.AssemblyReference.cache
+C:\Experion\c-sharp logical questions\TenPassengerAge\obj\Debug\net6.0\TenPassengerAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp logical questions\TenPassengerAge\obj\Debug\net6.0\TenPassengerAge.AssemblyInfoInputs.cache
+C:\Experion\c-sharp logical questions\TenPassengerAge\obj\Debug\net6.0\TenPassengerAge.AssemblyInfo.cs
+C:\Experion\c-sharp logical questions\TenPassengerAge\obj\Debug\net6.0\TenPassengerAge.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp logical questions\TenPassengerAge\obj\Debug\net6.0\TenPassengerAge.dll
+C:\Experion\c-sharp logical questions\TenPassengerAge\obj\Debug\net6.0\refint\TenPassengerAge.dll
+C:\Experion\c-sharp logical questions\TenPassengerAge\obj\Debug\net6.0\TenPassengerAge.pdb
+C:\Experion\c-sharp logical questions\TenPassengerAge\obj\Debug\net6.0\TenPassengerAge.genruntimeconfig.cache
+C:\Experion\c-sharp logical questions\TenPassengerAge\obj\Debug\net6.0\ref\TenPassengerAge.dll

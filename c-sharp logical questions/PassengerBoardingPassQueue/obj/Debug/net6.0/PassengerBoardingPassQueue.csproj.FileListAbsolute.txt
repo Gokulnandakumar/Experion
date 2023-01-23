@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\PassengerBoardingPassQueue\bin\Debug\net6.0\PassengerBoardingPassQueue.exe
+C:\Experion\c-sharp\PassengerBoardingPassQueue\bin\Debug\net6.0\PassengerBoardingPassQueue.deps.json
+C:\Experion\c-sharp\PassengerBoardingPassQueue\bin\Debug\net6.0\PassengerBoardingPassQueue.runtimeconfig.json
+C:\Experion\c-sharp\PassengerBoardingPassQueue\bin\Debug\net6.0\PassengerBoardingPassQueue.dll
+C:\Experion\c-sharp\PassengerBoardingPassQueue\bin\Debug\net6.0\PassengerBoardingPassQueue.pdb
+C:\Experion\c-sharp\PassengerBoardingPassQueue\obj\Debug\net6.0\PassengerBoardingPassQueue.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\PassengerBoardingPassQueue\obj\Debug\net6.0\PassengerBoardingPassQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\PassengerBoardingPassQueue\obj\Debug\net6.0\PassengerBoardingPassQueue.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\PassengerBoardingPassQueue\obj\Debug\net6.0\PassengerBoardingPassQueue.AssemblyInfo.cs
+C:\Experion\c-sharp\PassengerBoardingPassQueue\obj\Debug\net6.0\PassengerBoardingPassQueue.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\PassengerBoardingPassQueue\obj\Debug\net6.0\PassengerBoardingPassQueue.dll
+C:\Experion\c-sharp\PassengerBoardingPassQueue\obj\Debug\net6.0\refint\PassengerBoardingPassQueue.dll
+C:\Experion\c-sharp\PassengerBoardingPassQueue\obj\Debug\net6.0\PassengerBoardingPassQueue.pdb
+C:\Experion\c-sharp\PassengerBoardingPassQueue\obj\Debug\net6.0\PassengerBoardingPassQueue.genruntimeconfig.cache
+C:\Experion\c-sharp\PassengerBoardingPassQueue\obj\Debug\net6.0\ref\PassengerBoardingPassQueue.dll

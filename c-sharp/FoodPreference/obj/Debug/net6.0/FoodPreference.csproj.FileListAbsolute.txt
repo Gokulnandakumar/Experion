@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\FoodPreference\bin\Debug\net6.0\FoodPreference.exe
+C:\Experion\c-sharp\FoodPreference\bin\Debug\net6.0\FoodPreference.deps.json
+C:\Experion\c-sharp\FoodPreference\bin\Debug\net6.0\FoodPreference.runtimeconfig.json
+C:\Experion\c-sharp\FoodPreference\bin\Debug\net6.0\FoodPreference.dll
+C:\Experion\c-sharp\FoodPreference\bin\Debug\net6.0\FoodPreference.pdb
+C:\Experion\c-sharp\FoodPreference\obj\Debug\net6.0\FoodPreference.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\FoodPreference\obj\Debug\net6.0\FoodPreference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\FoodPreference\obj\Debug\net6.0\FoodPreference.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\FoodPreference\obj\Debug\net6.0\FoodPreference.AssemblyInfo.cs
+C:\Experion\c-sharp\FoodPreference\obj\Debug\net6.0\FoodPreference.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\FoodPreference\obj\Debug\net6.0\FoodPreference.dll
+C:\Experion\c-sharp\FoodPreference\obj\Debug\net6.0\refint\FoodPreference.dll
+C:\Experion\c-sharp\FoodPreference\obj\Debug\net6.0\FoodPreference.pdb
+C:\Experion\c-sharp\FoodPreference\obj\Debug\net6.0\FoodPreference.genruntimeconfig.cache
+C:\Experion\c-sharp\FoodPreference\obj\Debug\net6.0\ref\FoodPreference.dll
