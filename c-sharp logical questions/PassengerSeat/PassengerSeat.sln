@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassengerSeat", "PassengerSeat.csproj", "{5C7B4FDB-9685-4D36-B5A6-53D37844AAA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C7B4FDB-9685-4D36-B5A6-53D37844AAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7B4FDB-9685-4D36-B5A6-53D37844AAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7B4FDB-9685-4D36-B5A6-53D37844AAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7B4FDB-9685-4D36-B5A6-53D37844AAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EA2FC0F-695F-42D3-BD4E-AF4F2BF3072B}
+	EndGlobalSection
+EndGlobal

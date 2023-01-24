@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Experion\\c-sharp\\FlightFareAndDestination\\FlightFareAndDestination.csproj",
+      "projectUniqueName": "C:\\Experion\\c-sharp logical questions\\FlightFareAndDestination\\FlightFareAndDestination.csproj",
       "projectName": "FlightFareAndDestination",
-      "projectPath": "C:\\Experion\\c-sharp\\FlightFareAndDestination\\FlightFareAndDestination.csproj",
+      "projectPath": "C:\\Experion\\c-sharp logical questions\\FlightFareAndDestination\\FlightFareAndDestination.csproj",
       "packagesPath": "C:\\Users\\gokul.n\\.nuget\\packages\\",
-      "outputPath": "C:\\Experion\\c-sharp\\FlightFareAndDestination\\obj\\",
+      "outputPath": "C:\\Experion\\c-sharp logical questions\\FlightFareAndDestination\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gokul.n\\AppData\\Roaming\\NuGet\\NuGet.Config",

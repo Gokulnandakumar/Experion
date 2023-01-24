@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Experion\\c-sharp\\PassengerBoardingPassQueue\\PassengerBoardingPassQueue.csproj": {}
+    "C:\\Experion\\c-sharp logical questions\\PassengerBoardingPassQueue\\PassengerBoardingPassQueue.csproj": {}
   },
   "projects": {
-    "C:\\Experion\\c-sharp\\PassengerBoardingPassQueue\\PassengerBoardingPassQueue.csproj": {
+    "C:\\Experion\\c-sharp logical questions\\PassengerBoardingPassQueue\\PassengerBoardingPassQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Experion\\c-sharp\\PassengerBoardingPassQueue\\PassengerBoardingPassQueue.csproj",
+        "projectUniqueName": "C:\\Experion\\c-sharp logical questions\\PassengerBoardingPassQueue\\PassengerBoardingPassQueue.csproj",
         "projectName": "PassengerBoardingPassQueue",
-        "projectPath": "C:\\Experion\\c-sharp\\PassengerBoardingPassQueue\\PassengerBoardingPassQueue.csproj",
+        "projectPath": "C:\\Experion\\c-sharp logical questions\\PassengerBoardingPassQueue\\PassengerBoardingPassQueue.csproj",
         "packagesPath": "C:\\Users\\gokul.n\\.nuget\\packages\\",
-        "outputPath": "C:\\Experion\\c-sharp\\PassengerBoardingPassQueue\\obj\\",
+        "outputPath": "C:\\Experion\\c-sharp logical questions\\PassengerBoardingPassQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gokul.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
