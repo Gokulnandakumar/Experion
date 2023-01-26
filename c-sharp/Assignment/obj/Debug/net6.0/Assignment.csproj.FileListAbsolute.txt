@@ -1,0 +1,15 @@
+C:\Experion\c-sharp\Assignment\bin\Debug\net6.0\Assignment.exe
+C:\Experion\c-sharp\Assignment\bin\Debug\net6.0\Assignment.deps.json
+C:\Experion\c-sharp\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+C:\Experion\c-sharp\Assignment\bin\Debug\net6.0\Assignment.dll
+C:\Experion\c-sharp\Assignment\bin\Debug\net6.0\Assignment.pdb
+C:\Experion\c-sharp\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+C:\Experion\c-sharp\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Experion\c-sharp\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+C:\Experion\c-sharp\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+C:\Experion\c-sharp\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+C:\Experion\c-sharp\Assignment\obj\Debug\net6.0\Assignment.dll
+C:\Experion\c-sharp\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+C:\Experion\c-sharp\Assignment\obj\Debug\net6.0\Assignment.pdb
+C:\Experion\c-sharp\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+C:\Experion\c-sharp\Assignment\obj\Debug\net6.0\ref\Assignment.dll

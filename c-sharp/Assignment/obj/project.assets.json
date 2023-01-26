@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Experion\\c-sharp logical questions\\PassengerSeat\\PassengerSeat.csproj",
-      "projectName": "PassengerSeat",
-      "projectPath": "C:\\Experion\\c-sharp logical questions\\PassengerSeat\\PassengerSeat.csproj",
+      "projectUniqueName": "C:\\Experion\\c-sharp\\Assignment\\Assignment.csproj",
+      "projectName": "Assignment",
+      "projectPath": "C:\\Experion\\c-sharp\\Assignment\\Assignment.csproj",
       "packagesPath": "C:\\Users\\gokul.n\\.nuget\\packages\\",
-      "outputPath": "C:\\Experion\\c-sharp logical questions\\PassengerSeat\\obj\\",
+      "outputPath": "C:\\Experion\\c-sharp\\Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gokul.n\\AppData\\Roaming\\NuGet\\NuGet.Config",
